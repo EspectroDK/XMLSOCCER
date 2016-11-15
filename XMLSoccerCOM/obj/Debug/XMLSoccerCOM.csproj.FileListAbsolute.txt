@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\bin\Debug\XMLSoccerCOM.dll.config
+c:\users\michael\documents\visual studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\bin\Debug\XMLSoccerCOM.dll
+c:\users\michael\documents\visual studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\bin\Debug\XMLSoccerCOM.pdb
+c:\users\michael\documents\visual studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\obj\Debug\XMLSoccerCOM.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\obj\Debug\XMLSoccerCOM.dll
+c:\users\michael\documents\visual studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\obj\Debug\XMLSoccerCOM.pdb

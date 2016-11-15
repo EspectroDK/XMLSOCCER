@@ -1,0 +1,9 @@
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\bin\Release\XMLSoccerCOM.Test.dll.config
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\bin\Release\XMLSoccerCOM.Test.dll
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\bin\Release\XMLSoccerCOM.Test.pdb
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\bin\Release\XMLSoccerCOM.dll
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\bin\Release\XMLSoccerCOM.pdb
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\obj\Release\XMLSoccerCOM.Test.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\obj\Release\XMLSoccerCOM.Test.dll
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM.Test\obj\Release\XMLSoccerCOM.Test.pdb

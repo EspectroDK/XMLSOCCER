@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://www.xmlsoccer.com/FootballDataDemo.asmx?wsdl" docRef="http://www.xmlsoccer.com/FootballDataDemo.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://www.xmlsoccer.com/FootballDataDemo.asmx" xmlns:q1="http://xmlsoccer.com/" binding="q1:FootballDataDemoSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://www.xmlsoccer.com/FootballDataDemo.asmx" xmlns:q2="http://xmlsoccer.com/" binding="q2:FootballDataDemoSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

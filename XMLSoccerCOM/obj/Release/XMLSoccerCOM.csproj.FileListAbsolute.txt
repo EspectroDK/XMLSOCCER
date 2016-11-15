@@ -1,0 +1,16 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.dll.config
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\obj\Release\XMLSoccerCOM.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\XMLSoccerCOM\XMLSoccerCOM\obj\Release\XMLSoccerCOM.pdb
+C:\Users\MichaelVognsen\Dropbox\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.dll.config
+C:\Users\MichaelVognsen\Dropbox\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.dll
+C:\Users\MichaelVognsen\Dropbox\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.pdb
+C:\Users\MichaelVognsen\Dropbox\XMLSoccerCOM\XMLSoccerCOM\obj\Release\XMLSoccerCOM.dll
+C:\Users\MichaelVognsen\Dropbox\XMLSoccerCOM\XMLSoccerCOM\obj\Release\XMLSoccerCOM.pdb
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.dll.config
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.dll
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM\bin\Release\XMLSoccerCOM.pdb
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM\obj\Release\XMLSoccerCOM.dll
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM\obj\Release\XMLSoccerCOM.pdb
+D:\Dropbox\Dropbox\XMLSoccerCOM\XMLSoccerCOM\obj\Release\XMLSoccerCOM.csprojResolveAssemblyReference.cache
